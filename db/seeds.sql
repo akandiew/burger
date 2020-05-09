@@ -1,5 +1,5 @@
-INSERT INTO burgers (burger_name, devoured) VALUES ("Impossible Burger", false);
+INSERT INTO burgers (burger_name) VALUES ("Impossible Burger");
 
-INSERT INTO burgers (burger_name, devoured) VALUES ("Super Bacon Cheese Burger", false);
+INSERT INTO burgers (burger_name) VALUES ("Super Bacon Cheese Burger");
 
-INSERT INTO burgers (burger_name, devoured) VALUES ("Dagwood Burger", false);
+INSERT INTO burgers (burger_name) VALUES ("Dagwood Burger");
